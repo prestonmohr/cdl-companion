@@ -11,14 +11,14 @@ use the 'generate' page to manually enter values to create a cdl file
 
 use the 'convert' page to import the values from a pre-existing cdl file; then, specify the new filetype to generate with the imported values
 
-<img width="848" alt="Screenshot 2023-07-09 at 12 27 19 AM" src="https://github.com/prestonmohr/cdl-companion/assets/77995599/092aa57c-39c2-49d9-85d3-b27988d4b8df">
+<img width="848" alt="Screenshot 2023-07-09 at 12 34 27 AM" src="https://github.com/prestonmohr/cdl-companion/assets/77995599/d5f742e9-80e5-42cb-bb46-974f2485da4f">
 
 use the 'batch convert' page to convert all the cdl files in an existing directory to cdl files of a different filetype
 
-<img width="848" alt="Screenshot 2023-07-09 at 12 29 02 AM" src="https://github.com/prestonmohr/cdl-companion/assets/77995599/6ad0edb4-0663-4910-aa6b-943ade852624">
+<img width="848" alt="Screenshot 2023-07-09 at 12 33 17 AM" src="https://github.com/prestonmohr/cdl-companion/assets/77995599/4e619ae6-877f-4280-bb5d-50acfde6e80b">
 
 (BETA) read the cdl values from an edl and generate corresponding files from their values
 
-<img width="848" alt="Screenshot 2023-07-09 at 12 30 00 AM" src="https://github.com/prestonmohr/cdl-companion/assets/77995599/119c7d0d-e792-4624-9d99-26783cbb8ca2">
+<img width="848" alt="Screenshot 2023-07-09 at 12 32 57 AM" src="https://github.com/prestonmohr/cdl-companion/assets/77995599/6fa0ec9b-aaa3-4799-86e4-30135e69ff44">
 
 </div>
