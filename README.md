@@ -7,7 +7,7 @@ a macos app to create, convert, and process ASC CDL XML files (.cc, .ccc, .cdl, 
 
 use the 'generate' page to manually enter values to create a cdl file
 
-<img width="848" alt="Screenshot 2023-07-09 at 12 23 21 AM" src="https://github.com/prestonmohr/cdl-companion/assets/77995599/bb640687-8bef-4be0-a615-e86bd88ecb51">
+<img width="848" alt="Screenshot 2023-07-09 at 12 31 55 AM" src="https://github.com/prestonmohr/cdl-companion/assets/77995599/4132ed82-67c9-46ea-a409-946f0c9ed4e1">
 
 use the 'convert' page to import the values from a pre-existing cdl file; then, specify the new filetype to generate with the imported values
 
